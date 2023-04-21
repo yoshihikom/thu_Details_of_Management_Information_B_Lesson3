@@ -1,2 +1,2 @@
 # thu_Details_of_Management_Information_B_Lesson3
-経営情報各論BⅠ
+経営情報各論BⅠ第3回用
